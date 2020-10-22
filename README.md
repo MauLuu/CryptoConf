@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Crypto Conf
 
 Crypto Conf The world leading Blockchain Expo series will return virtually  on the 25-26th November 2020 to host its fourth annual Europe event.
@@ -16,3 +17,7 @@ colors: Header and footer
         Detail touch
 fonts: principal
         secondary (maybe)
+=======
+# CryptoConf
+Single page, cryptocurrencies and blockchain tecnology event. 
+>>>>>>> 55d01a91b7e5294a9bdf37e09db94099ad2becce
